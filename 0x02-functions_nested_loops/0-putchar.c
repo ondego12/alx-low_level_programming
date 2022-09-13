@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include "main.h"
 /**
 * File: main.h
 * Auth: Brian ondego
