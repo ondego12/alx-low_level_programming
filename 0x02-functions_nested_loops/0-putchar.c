@@ -3,23 +3,23 @@ int main(void)
 
 {
 
-	putchar('_');
+	putchar ('_');
 
-	putchar('p');
+	putchar ('p');
 
-	putchar('u');
+	putchar ('u');
 
-	putchar('t');
+	putchar ('t');
 
-	putchar('c');
+	putchar ('c');
 
-	putchar('h');
+	putchar ('h');
 
-	putchar('a');
+	putchar ('a');
 
-	putchar('r');
+	putchar ('r');
 
-	putchar('\n');
+	putchar( '\n');
 
 	return(0);
 }
