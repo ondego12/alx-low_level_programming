@@ -1,10 +1,14 @@
 #include<stdio.h>
-/*
+/**
  * File: main.c
  * Auth: Brian ondego
  */
 int main(void)
-
+/**
+* main - Prints "Holberton" followed by a new line.
+*  
+* Return: Always 0.
+*/
 {
 
 	putchar('_');
