@@ -1,8 +1,8 @@
 #include<stdio.h>
 /**
- * File: main.c
- * Auth: Brian ondego
- */
+* File: main.c
+* Auth: Brian ondego
+*/
 int main(void)
 /**
 * main - Prints "Holberton" followed by a new line.
@@ -15,15 +15,15 @@ int main(void)
 
 	putchar('p');
 
-	putchar ('u');
+	putchar('u');
 
-	putchar ('t');
+	putchar('t');
 
-	putchar ('c');
+	putchar('c');
 
 	putchar('h');
 
-	putchar ('a');
+	putchar('a');
 
 	putchar('r');
 
