@@ -3,11 +3,11 @@ int main(void)
 
 {
 
-	putchar( '_' );
+	putchar('_');
 
-	putchar( 'p' );
+	putchar('p');
 
-	putchar ( 'u' );
+	putchar ('u');
 
 	putchar ( 't' );
 
