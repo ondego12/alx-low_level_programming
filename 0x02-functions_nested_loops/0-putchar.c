@@ -13,7 +13,7 @@ int main(void)
 
 	putchar ('c');
 
-	putchar ('h');
+	putchar('h');
 
 	putchar ('a');
 
@@ -21,5 +21,5 @@ int main(void)
 
 	putchar('\n');
 
-	return(0);
+	return (0);
 }
