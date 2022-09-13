@@ -1,11 +1,11 @@
 #include <stdio.h>
 /**
-* File: main.h
+* File: 0-putchar.c
 * Auth: Brian ondego
 */
 
 /**
-* main - Prints "putchar" followed by a new line.
+* main - Prints "_putchar" followed by a new line.
 *
 *
 * Return: Always 0.
