@@ -1,9 +1,9 @@
 #include<stdio.h>
 /*
- *  * File: main.c
- *   * Auth: Brennan D Baraban
- *    *
- *     */
+ *File: main.c
+ *Auth: Brian ondego
+ *  
+ */
 int main(void)
 
 {
