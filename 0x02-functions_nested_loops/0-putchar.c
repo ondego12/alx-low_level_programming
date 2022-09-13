@@ -6,7 +6,7 @@
 int main(void)
 /**
 * main - Prints "Holberton" followed by a new line.
-*  
+*
 * Return: Always 0.
 */
 {
