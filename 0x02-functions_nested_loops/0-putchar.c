@@ -1,16 +1,16 @@
+/*
+ * File: 0-putchar.c
+ * Auth: Brian ondego
+ *
+ */
+
 #include <stdio.h>
-/**
-* File: 0-putchar.c
-* Auth: Brian ondego
-*/
 
 /**
-* main - Prints "_putchar" followed by a new line.
-*
-*
-* Return: Always 0.
-*/
-
+ * main - Prints "_putchar" followed by a new line.
+ *
+ * Return: Always 0.
+ */
 int main(void)
 {
 
