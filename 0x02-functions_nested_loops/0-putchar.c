@@ -1,7 +1,7 @@
 #include<stdio.h>
 /*
  * File: main.c
- * Auth: Brian ondego  
+ * Auth: Brian ondego
  */
 int main(void)
 
