@@ -1,15 +1,15 @@
-#include "main.h"
+#include "holberton.h"
 
 /**
- * int _isalpha(int c) - checks lowercase c
+ *3-islower - Checks if a character is lowercase.
+ * @c: The character to be checked.
  *
- * Return: 1 or else return 0
+ * Return: 1 if character is lowercase, 0 otherwise.
  */
-int int _isalpha(int c)
+int _islower(int c)
 {
-
-	for (c >= 'a' && c <= 'z')
-		return(1);
+	if (c >= 'a' && c <= 'z')
+		return (1);
 	else
-		return(0);
+		return (0);
 }
