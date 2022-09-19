@@ -1,6 +1,6 @@
 /*
  * File: 3-puts.c
- * Auth: Brennan D Baraban
+ * Auth: ondego12
  */
 
 #include "main.h"

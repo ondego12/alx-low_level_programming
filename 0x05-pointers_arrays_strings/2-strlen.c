@@ -1,6 +1,6 @@
 /*
  * File: 2-strlen.c
- * Auth: Brennan D Baraban
+ * Auth: ondego
  */
 
 #include "main.h"
