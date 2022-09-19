@@ -1,6 +1,7 @@
 /*
  * File: 0-reset_to_98.c
- * Auth: Brennan D Baraban
+ * Auth: ondego12
+ *
  */
 
 #include "main.h"
