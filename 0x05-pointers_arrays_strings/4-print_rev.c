@@ -1,6 +1,6 @@
 /*
  * File: 4-print_rev.c
- * Auth: Brennan D Baraban
+ * Auth: ondego
  */
 
 #include "main.h"
