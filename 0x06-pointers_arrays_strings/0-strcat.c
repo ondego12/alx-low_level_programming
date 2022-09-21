@@ -5,7 +5,6 @@
 
 #include "main.h"
 
-
 /**
  * strcat - Concatenates the string pointed to by @src, including the terminating
  *          null byte, to the end of the string pointed to by @dest.
@@ -14,7 +13,7 @@
  *
  * Return: A pointer to the destination string @dest.
  */
-char *strcat(char *dest, char *src)
+char *_strcat(char *dest, char *src)
 {
 	int index = 0, dest_len = 0;
 
