@@ -1,6 +1,6 @@
-*
+/*
  * File: 3-strcmp.c
- * Auth: Brennan D Baraban
+ * Auth: Brian
  */
 
 #include "main.h"
