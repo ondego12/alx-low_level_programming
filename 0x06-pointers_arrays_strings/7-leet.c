@@ -3,7 +3,7 @@
  * Auth: Brian ondego
  */
 
-#include "holberton.h"
+#include "main.h"
 
 /**
  * leet - Encodes a string to 1337.
