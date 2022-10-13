@@ -31,3 +31,4 @@ int main(int argc, char *argv[])
 	c = (*p)(a, b);
 
 	printf("%d\n", c);
+	return 0;
